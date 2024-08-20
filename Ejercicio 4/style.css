@@ -1,0 +1,29 @@
+body{
+    font-family: "Comic Neue", cursive;
+    margin: 50px;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+}
+
+#imagen1{
+    width: 50%;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 768px){
+    body{
+        background-color: blue;
+    }
+}
+
+@media(max-width:600px){
+    body{
+        background-color: pink;
+    }
+}

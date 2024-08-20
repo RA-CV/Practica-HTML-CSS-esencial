@@ -1,0 +1,29 @@
+body{
+    background-color: aliceblue;
+    color: rgb(31, 1, 142);
+    font-family: "Nunito Sans", sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.aplicaciones{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 0 20px 0 20px;
+    margin: 50px 200px 50px 200px;
+    padding: 20px;
+}
+.imagen_apps{
+    height: 100px;
+    text-align: center;
+}
+
+#microsoft{
+    
+}
+
+#facebook{
+
+}
